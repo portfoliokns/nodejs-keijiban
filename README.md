@@ -18,7 +18,7 @@ npm run dev
 
 # サービス群
 このアプリで、以下のようなサービスを使用しています。
-- HTML、CSS・・・ブラウザ上に情報を表示するためのツール
+- HTML、CSS、javascript・・・ブラウザ上に情報を表示するためのマークアップ言語またブラウザ上で動きを実現するためのプログラミング言語
 - axios・・・HTML、CSS、javascriptとnode.jsを連携するためのライブラリ（API）
 - node.js・・・掲示板アプリを開発・稼働させるためのフレームワークツール
 - mongoose・・・node.jsとmongoDBを連携させるツール

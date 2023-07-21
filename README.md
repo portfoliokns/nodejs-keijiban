@@ -10,10 +10,14 @@ https://www.youtube.com/watch?v=DcGHrM7fdPw
 <br>
 
 # 起動方法
+ターミナルで以下を実行することで、サーバーが立ち上がります。
 ```
 npm run dev
 ```
-
+ブラウザからは以下のアドレスを入力して、アクセスできます。
+```
+http://localhost:3000/
+```
 <br>
 
 # サービス群
